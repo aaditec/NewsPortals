@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">NITV News</string>
+    <string name="api_key" translatable="false">d24aad30d91c40a08c31920d5469fee0</string>
+    <!--    <string name="api_key">6af49a66e12b4d99aef50eaccc321ebc</string>-->
+</resources>
